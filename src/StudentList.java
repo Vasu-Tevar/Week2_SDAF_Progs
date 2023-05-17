@@ -1,7 +1,6 @@
 
 
 //class that creates an array of Students and prints each students name
-//May 17 2023
 public class StudentList {
 
 	public static void main(String[] args){
