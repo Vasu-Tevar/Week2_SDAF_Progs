@@ -1,5 +1,5 @@
 public class Student {
-
+        //adding commit inclass
 	private String name;
 	private int studentNumber;
 	private boolean fullTime;
